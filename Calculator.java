@@ -20,17 +20,17 @@ public class Main{
             case 3:
                 System.out.println(a*b);
                 break;
-            case 4: if b==0 {
-                 system.out.println("Can't divide by zero");
-                 else{
-                System.out.println(a/b);
-                      )
-                break;
-            case 5: if b==0 {
-                 system.out.println("Can't divide by zero");
-                 else{
-                System.out.println(a%b);
-                 }
+            case 4 : if(b == 0) {
+                       System.out.println("Can't divide by zero. ");
+                   } else {
+                       System.out.println(a/b);
+                   }
+        break;
+           case 5 : if(b == 0) {
+                       System.out.println("Can't divide by zero. ");
+                   } else {
+                       System.out.println(a%b);
+                   }
                 break;
             default:
                 System.out.println("Invalid operation");
