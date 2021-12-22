@@ -21,14 +21,6 @@
 
 <br />
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vaib's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vaib215&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://vaib.carrd.co
 [twitter]: https://twitter.com/ThisIs_Vaib
 [youtube]: https://www.youtube.com/channel/UCPZ5db41kNeoJ_9Wb6umM1A
