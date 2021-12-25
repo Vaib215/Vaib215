@@ -26,3 +26,7 @@
 [youtube]: https://www.youtube.com/channel/UCPZ5db41kNeoJ_9Wb6umM1A
 [instagram]: https://instagram.com/ThisIs_Vaib
 [linkedin]: https://linkedin.com/in/Vaib215
+[lorempicsum]: https://picsum.photos/
+## LIST OF SOME PRODUCTIVE VIDEOS
+
+[<img align="left" alt="Lorem Picsum" src="https://picsum.photos/22/" />Random Image Generator][lorempicsum]
