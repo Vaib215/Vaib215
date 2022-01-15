@@ -30,6 +30,8 @@
 
 ### MY PROJECTS
 1.[ Landing Page Using Tailwind-CSS](https://vaib215.github.io/Webpages-using-tailwindcss/)
+
+2.[ A Social Handle Website with Glassmorphism](https://vaib215.github.io/Projects/)
 ## LIST OF SOME PRODUCTIVE WEBSITES
 
 [<img align="left" alt="Lorem Picsum" src="https://picsum.photos/22/" />Random Image Generator][lorempicsum]
