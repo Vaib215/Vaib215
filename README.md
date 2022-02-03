@@ -28,10 +28,17 @@
 [linkedin]: https://linkedin.com/in/Vaib215
 [lorempicsum]: https://picsum.photos/
 
-### MY PROJECTS
-1.[ Landing Page Using Tailwind-CSS](https://vaib215.github.io/Webpages-using-tailwindcss/)
+### [ MY PROJECTS ](https://vaib215.github.io/Projects)
 
-2.[ A Social Handle Website with Glassmorphism](https://vaib215.github.io/Projects/)
+1.[ Landing Page Using Tailwind-CSS](https://vaib215.github.io/Projects/vaibphone.html)
+
+2.[ A Social Handle Website with Glassmorphism](https://vaib215.github.io/Projects/portfolio.html)
+
+3.[ QR Code Component Challenge on frontendmentor](https://vaib215.github.io/QR-Code-component/)
+
+4.[ A Facebook Signin Page Clone using Tailwindcss](https://vaib215.github.io/Projects/fb-clone.html)
+
+
 ## LIST OF SOME PRODUCTIVE WEBSITES
 
 [<img align="left" alt="Lorem Picsum" src="https://picsum.photos/22/" />Random Image Generator][lorempicsum]
