@@ -38,6 +38,17 @@
 
 4.[ A Facebook Signin Page Clone using Tailwindcss](https://vaib215.github.io/Projects/fb-clone.html)
 
+5.[ Stats Preview Card Component Challenge on frontendmentor](https://vaib215.github.io/Stats-Preview-Card-Component/)
+
+6.[ CV Website using Pure HTMLand CSS](https://vaib215.github.io/Web-Devlopement-2022/Project%201:%20CV%20using%20Pure%20HTML%20and%20CSS/)
+
+7.[ A Modern Landing Page Website using HTML and SASS](https://vaib215.github.io/Show-A-Shoe/)
+
+8.[ BOB : Blackboard Organizer Bot](https://github.com/Vaib215/BOB)
+
+9.[ ABC : Artificial Bot for Chandigarh University](https://github.com/Vaib215/Projects/tree/main/ABCv2)
+
+10.[ A Social Handler Website](https://vaib.carrd.co)
 
 ## LIST OF SOME PRODUCTIVE WEBSITES
 
