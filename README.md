@@ -1,5 +1,5 @@
 ### Hi there, I'm Vaibhav Kumar Singh aka [VAIB](https://vaib.carrd.co) 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%23666999&center=true&vCenter=true&width=400&height=50&lines=Web+Devloper;Competitive+Programmer;Python+Developer;Freelancer;Content+Creator)](https://vaib.carrd.co)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%23666999&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;Python+Developer;Freelancer;Content+Creator)](https://vaib.carrd.co)
 
 ## Pursuing BE-CSE from Chandigarh University!!
 
