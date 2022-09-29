@@ -3,6 +3,8 @@
 
 ## Pursuing BE-CSE from Chandigarh University!!
 
+# My Gist - <a href='gist.github.com/Vaib215'>gist.github.com/Vaib215</a>
+
 # 💫About Me :
 🔭 Productivity is my Priority.
 🌏 I’m currently learning web development.
