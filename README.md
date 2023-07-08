@@ -9,11 +9,16 @@
 
 # 💫About Me :
 🔭 Productivity is my Priority.
-🌏 I’m currently learning web development.
+
+🌏 I’m currently living web and app development.
+
 ♟️ I love playing chess.
+
 💻 I’m looking forward to collaborate with other creators and developers.
-🥅 2022 Goals: Focus on developing my skills and exploring new things.
-🍔 Fun fact: I don't know what's goin' to happen tomorrow so enjoy today.
+
+🥅 2023 Goals: Beast Mode ON.
+
+🍔 Fun fact: Web & Vaib not only sound same, they actually are.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vaibhav.sisodiya.16) 
